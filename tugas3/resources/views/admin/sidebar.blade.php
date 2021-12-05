@@ -29,7 +29,7 @@
 <li class="nav-item">
     <a class="nav-link" href="{{url('kategori')}}">
         <i class="fas fa-fw fa-table"></i>
-        <span>Kategori</span></a>
+        <span>User</span></a>
 </li>
 
 
